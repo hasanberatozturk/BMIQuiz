@@ -1,2 +1,2 @@
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/aa2e2742-ffb3-461c-bc9a-38d21840f96f" /> BMIQuiz
+## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b8ad9848-322a-4a2c-975f-bd09a8fbaa43" /> BMIQuiz
 ### BMI Hesaplama Calculator 
